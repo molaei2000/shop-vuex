@@ -14,6 +14,8 @@ yarn serve
 ```
 yarn build
 ```
+### online demo
+https://moly-shop-vuex.netlify.app/
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
